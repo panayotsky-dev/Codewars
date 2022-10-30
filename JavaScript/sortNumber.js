@@ -24,3 +24,8 @@ function sortNumber(n){
 }
 
 console.log(sortNumber(1021))
+
+
+//function descendingOrder(n){
+//   return parseInt(String(n).split('').sort().reverse().join(''))
+// }
